@@ -1,3 +1,7 @@
 
 *.bat
 gradlew
+*.xml
+*.bin
+*.properties
+*.lock
