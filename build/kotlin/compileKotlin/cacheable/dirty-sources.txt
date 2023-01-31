@@ -1,0 +1,6 @@
+/Users/imseoyeong/IdeaProjects/GitHub/Getting-Familiar-with-Kotlin/src/main/kotlin/getting/familiar/kotlin/application/dto/request/PostRequest.kt
+/Users/imseoyeong/IdeaProjects/GitHub/Getting-Familiar-with-Kotlin/src/main/kotlin/getting/familiar/kotlin/application/service/PostService.kt
+/Users/imseoyeong/IdeaProjects/GitHub/Getting-Familiar-with-Kotlin/src/main/kotlin/getting/familiar/kotlin/application/dto/request/PostResponse.kt
+/Users/imseoyeong/IdeaProjects/GitHub/Getting-Familiar-with-Kotlin/src/main/kotlin/getting/familiar/kotlin/KotlinApplication.kt
+/Users/imseoyeong/IdeaProjects/GitHub/Getting-Familiar-with-Kotlin/src/main/kotlin/getting/familiar/kotlin/domain/Post.kt
+/Users/imseoyeong/IdeaProjects/GitHub/Getting-Familiar-with-Kotlin/src/main/kotlin/getting/familiar/kotlin/application/service/PostServiceImpl.kt
