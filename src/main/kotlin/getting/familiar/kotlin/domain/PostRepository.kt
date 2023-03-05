@@ -8,6 +8,6 @@ interface PostRepository : CrudRepository<Post, Int> {
 
     fun findAllByIdOrderByDateDesc(id: Int): Post
 
-    fun findAllByOrderByDateDesc()
+    fun findAllByOrderByDateDesc(): List<Post>
 
 }

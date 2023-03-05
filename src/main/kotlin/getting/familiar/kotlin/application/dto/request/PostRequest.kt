@@ -6,6 +6,6 @@ class PostRequest (
 
     val writer: String,
 
-    val content: String?
+    val content: String
 
 )

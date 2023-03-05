@@ -25,5 +25,9 @@ class Post (
     var writer: String = "none"
 
 ) {
-
+    fun update(title: String, writer: String, content: String) {
+        this.title = title
+        this.writer = writer
+        this.content = content
+    }
 }
